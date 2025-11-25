@@ -137,3 +137,6 @@ dist
 
 # General
 .DS_Store
+
+# This app
+outputs/
